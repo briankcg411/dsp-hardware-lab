@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+#Code Composer folders
+**\Debug\
+**\Release
+.xdchelp
+**\.config
+**\.launches
+\.metadata
+\RemoteSystemsTempFiles
+
+#Misc
+*.zip
